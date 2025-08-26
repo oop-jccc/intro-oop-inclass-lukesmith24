@@ -12,10 +12,8 @@ internal class Program
         location1.SetX(0);
         location1.SetY(0);
 
-        var location2 = new LocationManualProps();
-        location2.X = 0;
-        location2.Y = 0;
-
+        var location2 = new LocationManualProps {X = 0, Y = 0};
+        
         var location3 = new LocationManualProps {X = 0, Y = 0};
 
 

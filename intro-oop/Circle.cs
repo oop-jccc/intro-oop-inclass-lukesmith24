@@ -2,7 +2,7 @@
 {
     public class Circle
     {
-        private readonly double _radius = 0;
+        private readonly double _radius = 1;
 
         public Circle(double radius)
         {
